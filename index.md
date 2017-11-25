@@ -1,5 +1,5 @@
 ---
 layout: page
-title: James Carter
-description: Personal page
+title: Home
+description: James Carter Home Page
 ---

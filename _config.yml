@@ -9,6 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 title : James Carter
+author :
   name : James Carter
   email : jc@jamescarter.uk
 

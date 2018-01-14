@@ -1,7 +1,7 @@
 ---
 layout: page
-title: James Carter - Home Page
-description: James Carter Home Page
+title: James D. Carter - Home Page
+description: James D. Carter Home Page
 ---
 # Home
 This page is just a placeholder for the moment.

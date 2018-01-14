@@ -1,6 +1,6 @@
 ---
 layout: page
-title: James D. Carter - Home Page
+title: James D. Carter
 description: James D. Carter Home Page
 ---
 # Home

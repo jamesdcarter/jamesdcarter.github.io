@@ -2979,27 +2979,6 @@
         });
 
 
-window.addEventListener('DOMContentLoaded', () => {
-    // Respect the saved toggle state for social icons
-    const socialToggle = document.getElementById('social-icons-toggle');
-    if (socialToggle && socialToggle.checked) {
-        toggleSubMenu('social-icons-menu', true);
-    }
-
-    // Respect the toggle for YouTube
-    const youtubeToggle = document.getElementById('youtube-toggle');
-    if (youtubeToggle && youtubeToggle.checked) {
-        toggleSubMenu('youtube-form', true);
-        document.getElementById('youtube-embed-container').style.display = 'block';
-    }
-
-    // Respect the toggle for Main Links
-    const mainLinksToggle = document.getElementById('main-links-toggle');
-    if (mainLinksToggle && mainLinksToggle.checked) {
-        toggleSubMenu('main-links-menu', true);
-    }
-});
-
     </script>
 
 
